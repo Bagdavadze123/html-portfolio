@@ -1,0 +1,160 @@
+.head-container{
+    flex-direction: column;
+    display: flex;
+    background-color: rgb(148, 218, 202);
+    height: 600px;
+
+}
+.porsche-img{
+    padding: 40px;
+    display: flex;
+
+}
+.top-porsches1{
+    width: 200px;
+}
+.porsche--bottom{
+
+    padding: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.top-porsches2{
+    width: 200px;
+}
+.title-text{
+    flex-direction: column;
+    gap: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:2rem ;
+    
+}
+.title-text > *{
+    color: rgb(64, 100, 124);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+.midle-container{
+    margin-top: 5rem;
+    display: block;
+    flex-direction: column;
+    gap: 10rem;
+}
+
+.about-me{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.about-me > img{
+    border-radius: 50%;
+    width: 20rem;
+    padding: 20px;
+}
+.about-me > p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 20%;
+}
+.about-me > h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(64, 100, 124);
+}
+
+.skill-container{  
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    margin-top: 100px;
+    gap: 30px;
+
+    h1{
+        font-size:x-large;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(64, 100, 124);
+    }
+}
+.skill-container>h1{
+    font-size: 3rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(64, 100, 124);
+}
+.my-skills{
+    padding-top: 0%;
+    width: 600px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 2fr;
+    gap: 20px;
+}
+.contact{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    color: rgb(64, 100, 124);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footer{
+    margin-top: 3rem;
+    display: block;
+    background-color: rgb(148, 218, 202);
+    height: 150px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
